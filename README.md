@@ -16,7 +16,7 @@ secure IPv6 overlay networking, with optional support for multicast discovery an
 ## Installation
 
 ```bash
-go get github.com/filinvadim/ygg0_lib_go
+go get github.com/filinvadim/ygg0-lib-go
 ````
 
 ---
