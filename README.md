@@ -1,9 +1,5 @@
 # ygg0-lib-go
-
-> Embedded Yggdrasil networking for Go applications.
-> No TUN required.
-> No external daemon. 
-> Direct mesh routing.
+Embedded Yggdrasil networking for Go applications.No TUN required.No external daemon. Direct mesh routing.
 
 ## Overview
 
