@@ -56,7 +56,7 @@ func main() {
 
 ## License
 
-GPL License. See [LICENSE](./LICENSE) for details.
+LGPL License. See [LICENSE](./LICENSE) for details.
 
 ---
 
