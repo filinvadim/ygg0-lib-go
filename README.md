@@ -60,7 +60,6 @@ LGPL License. See [LICENSE](./LICENSE) for details.
 
 ---
 <meta name="google-site-verification" content="544ksiFm2SMwzYdBY2APj8crRRDfElzMJwqLqOZGni0" />
-
 ## Disclaimer
 
 This project is not officially affiliated with the Yggdrasil Network team, 
